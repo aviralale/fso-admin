@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE_URL = "https://apiinqfso.ctrlbits.xyz";
+const API_BASE_URL = "https://api-inquiry.firststepoverseas.com";
 
 export const apiClient = axios.create({
   baseURL: API_BASE_URL,
